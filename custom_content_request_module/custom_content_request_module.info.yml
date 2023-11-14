@@ -1,0 +1,6 @@
+name: 'Custom Content Request Module'
+type: module
+description: 'Creates a custom content type with fields, associated taxonomy, and settings page.'
+core_version_requirement: ^10 || ^11
+package: Custom
+version: 1.0
